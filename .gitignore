@@ -2,4 +2,3 @@ input
 detectron2
 output
 venv
-cfg.pkl
